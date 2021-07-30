@@ -1,0 +1,14 @@
+C:\Users\hirun\source\repos\fappy_bird_game\fappy_bird_game\bin\Debug\fappy_bird_game.exe.config
+C:\Users\hirun\source\repos\fappy_bird_game\fappy_bird_game\bin\Debug\fappy_bird_game.exe
+C:\Users\hirun\source\repos\fappy_bird_game\fappy_bird_game\bin\Debug\fappy_bird_game.pdb
+C:\Users\hirun\source\repos\fappy_bird_game\fappy_bird_game\obj\Debug\fappy_bird_game.csproj.AssemblyReference.cache
+C:\Users\hirun\source\repos\fappy_bird_game\fappy_bird_game\obj\Debug\fappy_bird_game.Properties.Resources.resources
+C:\Users\hirun\source\repos\fappy_bird_game\fappy_bird_game\obj\Debug\fappy_bird_game.csproj.GenerateResource.cache
+C:\Users\hirun\source\repos\fappy_bird_game\fappy_bird_game\obj\Debug\fappy_bird_game.csproj.CoreCompileInputs.cache
+C:\Users\hirun\source\repos\fappy_bird_game\fappy_bird_game\obj\Debug\fappy_bird_game.exe
+C:\Users\hirun\source\repos\fappy_bird_game\fappy_bird_game\obj\Debug\fappy_bird_game.pdb
+C:\Users\hirun\source\repos\fappy_bird_game\fappy_bird_game\bin\Debug\Guna.UI2.dll
+C:\Users\hirun\source\repos\fappy_bird_game\fappy_bird_game\obj\Debug\fappy_bird_game.Form1.resources
+C:\Users\hirun\source\repos\fappy_bird_game\fappy_bird_game\obj\Debug\fappy_bird_game.csproj.CopyComplete
+C:\Users\hirun\source\repos\fappy_bird_game\fappy_bird_game\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\hirun\source\repos\fappy_bird_game\fappy_bird_game\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
